@@ -1,4 +1,6 @@
-# <h1 align="center">Hi 👋, I'm Yazdaan Ali Mirza</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:A78BFA,100:C084FC&height=220&section=header&text=Yazdaan%20Ali%20Mirza&fontSize=60&fontColor=ffffff&desc=Computer%20Information%20Systems%20Undergraduate&descSize=20&descAlignY=65&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Information+Systems+Undergraduate;C%2B%2B+%7C+Python+%7C+C+Developer;Problem+Solver;Passionate+About+Software+Engineering;Always+Learning+New+Technologies" />
