@@ -1,4 +1,4 @@
-<p align="center">
+<img width="832" height="337" alt="image" src="https://github.com/user-attachments/assets/8f1e4b26-302b-461c-905b-ddcea52837e4" /><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:A78BFA,100:C084FC&height=220&section=header&text=Yazdaan%20Ali%20Mirza&fontSize=60&fontColor=ffffff&desc=Computer%20Information%20Systems%20Undergraduate&descSize=20&descAlignY=65&animation=fadeIn" />
 </p>
 
@@ -120,9 +120,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yazdaan-Ali2006/Yazdaan-Ali2006/output/dist/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yazdaan-Ali2006/Yazdaan-Ali2006/output/dist/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yazdaan-Ali2006/Yazdaan-Ali2006/output/dist/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yazdaan-Ali2006/Yazdaan-Ali2006/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yazdaan-Ali2006/Yazdaan-Ali2006/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yazdaan-Ali2006/Yazdaan-Ali2006/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 ---
