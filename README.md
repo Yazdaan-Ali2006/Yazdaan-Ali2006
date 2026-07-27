@@ -91,11 +91,11 @@
 </p>
 
 ---
+## 📈 Activity Graph
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy-winning.vercel.app/?username=Yazdaan-Ali2006&theme=tokyonight&row=2&column=4" />
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yazdaan-Ali2006&theme=tokyo-night" />
+</p>
 ---
 
 ## 👾 Contribution
