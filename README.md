@@ -111,12 +111,12 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yazdaan-Ali2006&theme=tokyonight&row=2&column=4" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Yazdaan-Ali2006&theme=tokyonight&row=2&column=4" />
 </p>
 
 ---
 
-## 👾 Pac-Man Contribution Animation
+## 👾 Contribution
 
 <p align="center">
   <picture>
