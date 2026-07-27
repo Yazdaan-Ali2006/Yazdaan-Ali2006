@@ -100,19 +100,9 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yazdaan-Ali2006&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yazdaan-Ali2006&layout=compact&theme=tokyonight" />
-</p>
----
-
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Yazdaan-Ali2006&theme=tokyonight&row=2&column=4" />
-</p>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=Yazdaan-Ali2006&theme=tokyonight&row=2&column=4" />
 
 ---
 
