@@ -1,3 +1,4 @@
+<p align="center">
 <img src="./glitch-header.svg" alt="Yazdaan Ali Mirza - Computer & Information Systems Undergraduate" width="100%" />
 </p>
 
@@ -8,9 +9,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Yazdaan-Ali2006&label=Profile%20Views&color=9d7bff&style=for-the-badge" />
 </p>
----
 
----
 
 ## 👨‍💻 About Me
 
