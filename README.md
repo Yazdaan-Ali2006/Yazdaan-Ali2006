@@ -111,10 +111,6 @@
 
 ## ✨ Favourite Quote
 
-> **"Turning ideas into software, one commit at a time."**
+> **“Hard work never killed anyone. Regret has buried more dreams than effort ever did.”**
 
 ---
-
-<p align="center">
-⭐ If you like my work, consider following my GitHub profile!
-</p>
