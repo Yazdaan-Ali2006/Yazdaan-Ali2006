@@ -111,6 +111,9 @@
 
 ## ✨ Favourite Quote
 
-> **“Hard work never killed anyone. Regret has buried more dreams than effort ever did.”**
+<p align="center">
+<img src="./glitch-quote.svg" alt="Hard work never killed anyone. Regret has buried more dreams than effort ever did." width="700" />
+</p>
+
 
 ---
