@@ -2,13 +2,12 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Information+Systems+Undergraduate;C%2B%2B+%7C+Python+%7C+C+;Problem+Solver;Passionate+About+Software+Engineering;Always+Learning+New+Technologies" />
+<img src="./typing-glitch.svg" alt="Computer Information Systems Undergraduate | C++ Python C | Problem Solver | Passionate About Software Engineering | Always Learning New Technologies" width="700" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Yazdaan-Ali2006&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Yazdaan-Ali2006&label=Profile%20Views&color=9d7bff&style=for-the-badge" />
 </p>
-
 ---
 
 ---
