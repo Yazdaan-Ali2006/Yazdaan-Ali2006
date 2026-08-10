@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220">
+  <defs>
+    <style>
+      .name-txt { font-family: 'Courier New', monospace; font-weight: bold; font-size: 46px; }
+      .sub-txt { font-family: 'Courier New', monospace; font-weight: bold; font-size: 20px; letter-spacing: 1px; }
+    </style>
+    <clipPath id="hClipA">
+      <rect x="0" y="0" width="900" height="14"/>
+      <rect x="0" y="40" width="900" height="10"/>
+      <rect x="0" y="75" width="900" height="18"/>
+      <rect x="0" y="120" width="900" height="8"/>
+      <rect x="0" y="150" width="900" height="14"/>
+    </clipPath>
+    <clipPath id="hClipB">
+      <rect x="0" y="18" width="900" height="10"/>
+      <rect x="0" y="55" width="900" height="12"/>
+      <rect x="0" y="95" width="900" height="8"/>
+      <rect x="0" y="132" width="900" height="10"/>
+      <rect x="0" y="168" width="900" height="12"/>
+    </clipPath>
+    <pattern id="hscan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#00ffe1"/>
+    </pattern>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050507"/>
+      <stop offset="100%" stop-color="#0b0512"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="220" fill="url(#bgGrad)"/>
+  <g opacity="0.12">
+    <rect x="0" y="0" width="900" height="220" fill="url(#hscan)"/>
+  </g>
+
+  <!-- moving scan bar -->
+  <rect x="0" width="900" height="8" fill="#00ffe1" opacity="0.08">
+    <animate attributeName="y" values="0;220;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- CYAN ghost -->
+  <g fill="#00fff9" clip-path="url(#hClipA)">
+    <text x="40" y="100" class="name-txt">Yazdaan Ali Mirza</text>
+    <text x="40" y="145" class="sub-txt">COMPUTER &amp; INFORMATION SYSTEMS UNDERGRADUATE</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; -4 0; 3 0; -2 0; 0 0; 4 0; 0 0"
+      keyTimes="0;0.15;0.3;0.45;0.6;0.8;1"
+      dur="2.4s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- MAGENTA ghost -->
+  <g fill="#ff2079" clip-path="url(#hClipB)">
+    <text x="40" y="100" class="name-txt">Yazdaan Ali Mirza</text>
+    <text x="40" y="145" class="sub-txt">COMPUTER &amp; INFORMATION SYSTEMS UNDERGRADUATE</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 4 0; -3 0; 2 0; 0 0; -4 0; 0 0"
+      keyTimes="0;0.15;0.3;0.45;0.6;0.8;1"
+      dur="2.4s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- MAIN text -->
+  <g fill="#f5f5f5">
+    <text x="40" y="100" class="name-txt">Yazdaan Ali Mirza</text>
+    <text x="40" y="145" class="sub-txt" fill="#9d7bff">COMPUTER &amp; INFORMATION SYSTEMS UNDERGRADUATE</text>
+    <animate attributeName="opacity" values="1;1;0.55;1;1;0.65;1" keyTimes="0;0.2;0.22;0.4;0.75;0.77;1" dur="3.2s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- random flicker bars -->
+  <g fill="#00fff9">
+    <rect x="0" y="70" width="900" height="5" opacity="0">
+      <animate attributeName="opacity" values="0;0;0.55;0;0;0" keyTimes="0;0.31;0.33;0.35;0.7;1" dur="2.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="125" width="900" height="6" opacity="0" fill="#ff2079">
+      <animate attributeName="opacity" values="0;0;0;0.5;0;0" keyTimes="0;0.55;0.57;0.59;0.6;1" dur="2.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- underline accent -->
+  <rect x="40" y="160" width="180" height="4" fill="#00fff9">
+    <animate attributeName="width" values="180;60;180;140;180" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
