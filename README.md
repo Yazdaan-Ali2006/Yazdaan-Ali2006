@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-<img src="./typing-glitch.svg" alt="Computer Information Systems Undergraduate | C++ Python C | Problem Solver | Passionate About Software Engineering | Always Learning New Technologies" width="700" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9D7BFF&center=true&vCenter=true&width=700&lines=Computer+Information+Systems+Undergraduate;C%2B%2B+%7C+Python+%7C+C+;Problem+Solver;Passionate+About+Software+Engineering;Always+Learning+New+Technologies" />
+
 </p>
 
 <p align="center">
