@@ -1,14 +1,19 @@
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:A78BFA,100:C084FC&height=220&section=header&text=Yazdaan%20Ali%20Mirza&fontSize=60&fontColor=ffffff&desc=Computer%20Information%20Systems%20Undergraduate&descSize=20&descAlignY=65&animation=fadeIn" />
+<img src="./glitch-header.svg" alt="Yazdaan Ali Mirza - Computer & Information Systems Undergraduate" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Information+Systems+Undergraduate;C%2B%2B+%7C+Python+%7C+C+;Problem+Solver;Passionate+About+Software+Engineering;Always+Learning+New+Technologies" />
+<img src="./name-glitch.svg" alt="Yazdaan Ali Mirza - Computer Systems Engineer" width="700" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yazdaan-Ali2006&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Information+Systems+Undergraduate;C%2B%2B+%7C+Python+%7C+C+;Problem+Solver;Passionate+About+Software+Engineering;Always+Learning+New+Technologies" />
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Yazdaan-Ali2006&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
 
 ---
 
