@@ -90,7 +90,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yazdaan-Ali2006&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Yazdaan-Ali2006&theme=github-dark&hide_border=true&border_radius=12" />
 </p>
 
 ---
