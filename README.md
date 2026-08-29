@@ -33,6 +33,8 @@
 
 ⚡ Goal: Become a highly skilled Software Engineer
 
+📫 Contact: [yazdaanalimirza2k06@gmail.com](mailto:yazdaanalimirza2k06@gmail.com)
+
 ---
 
 ## 🌐 Connect With Me
