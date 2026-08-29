@@ -42,6 +42,7 @@
 <a href="https://github.com/Yazdaan-Ali2006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/yazdaan-ali-mirza-52074130a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://leetcode.com/u/Yazdaan_Ali_Mirza/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+<a href="https://linktr.ee/YazdaanAliMirza"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white"></a> </p>
 </p>
 
 ---
